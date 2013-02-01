@@ -1,0 +1,7 @@
+# Plague
+
+## Synfig techniques
+
+1. Gradiant and Noise to create the atmosphere
+2. Motion blur (3f) and a time loop of 2s for the explorer movement
+3. Zoom for the geki village
