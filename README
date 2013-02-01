@@ -2,6 +2,16 @@
 
 ## Synfig techniques
 
+c01s030
 1. Gradiant and Noise to create the atmosphere
 2. Motion blur (3f) and a time loop of 2s for the explorer movement
 3. Zoom for the geki village
+c01s040
+4. Mirror:
+http://www.synfig.org/forums/viewtopic.php?f=11&t=1033#p5172
+u can mirror on X, Y or both by using a Stretch Layer. Set its amount parameter accordingly.
+X mirror: (1, -1)
+Y mirror: (-1,1)
+X&Y mirror: (-1,-1)
+If you need to do a rotated mirror use a rotate layer later and link the origin of the rotation to the origin of stretch. 
+5. Import from library, then copy and paste objects.
