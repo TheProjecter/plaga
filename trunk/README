@@ -15,3 +15,5 @@ Y mirror: (-1,1)
 X&Y mirror: (-1,-1)
 If you need to do a rotated mirror use a rotate layer later and link the origin of the rotation to the origin of stretch. 
 5. Import from library, then copy and paste objects.
+
+
