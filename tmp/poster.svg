@@ -14,9 +14,9 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="poster.svg"
-   inkscape:export-filename="/home/mospina/manuel/mopenstudio/plaga/tpm/poster.png"
+   inkscape:export-filename="/home/mospina/manuel/studio/plaga/tmp/newposter.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -144,16 +144,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="45.21708"
+     inkscape:cx="49.21708"
      inkscape:cy="561.16916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1680"
-     inkscape:window-height="1001"
+     inkscape:window-height="991"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -167,7 +167,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -881,17 +881,6 @@
        id="path4425"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#af9062;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 382.01444,635.52273 c 4.39131,-0.96558 11.01798,-4.21372 15.9099,-1.76776 15.16762,7.58381 26.019,14.88206 37.65344,26.5165 4.94353,4.94353 13.29656,10.29136 18.03122,15.02602 1.28445,1.28445 12.67388,9.77896 14.49569,8.30851 6.41602,-5.17859 36.33358,-8.92126 39.06765,-6.18719 3.39425,3.39425 3.65883,8.46895 1.94454,13.61181 -0.37772,1.13316 0.16427,2.67667 -0.35355,3.71231 -1.84476,3.68951 3.69332,11.3327 -2.2981,17.32411 -2.40964,2.40964 -11.03219,-0.14652 -15.02602,-0.17678 -3.03576,-0.023 -7.35089,0.92182 -12.9047,1.59099 -3.63395,0.43785 -12.67776,3.38384 -16.26345,1.591 -2.1312,-1.0656 -5.48209,-3.27138 -7.42462,-4.24264 -5.96602,-2.98301 -14.35712,-6.75572 -18.56155,-10.96016 -2.96827,-2.96826 -9.573,-6.39101 -12.1976,-9.01561 -8.4614,-7.47474 -17.79441,-14.5342 -25.27906,-21.74353 -2.49485,-2.49485 -5.41113,-5.05757 -8.30851,-7.95495 -3.62454,-3.62455 -8.77871,-4.47595 -10.96015,-8.83884 -1.30932,-2.61862 -2.07279,-11.89258 0,-13.96536 0.82926,-0.82926 2.21224,-1.51526 2.47487,-2.82843 z"
-       id="path4427"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssssssssssssccsssc" />
-    <path
-       style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 503.10648,674.41361 c 2.88676,1.99508 -0.63869,41.78772 0.7071,43.13351 1.41521,1.4152 13.15514,-0.78077 13.78858,-1.41421 1.90816,-1.90816 14.43769,1.82577 20.15255,-3.88909 3.38425,-3.38425 1.52609,-11.77914 5.3033,-15.55635 20.69922,-20.69922 1.51135,-24.04163 -20.5061,-24.04163 -6.42337,0 -13.43882,0.56644 -19.44543,1.76777 z"
-       id="path4429"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 582.5,860.86218 c -0.22953,8.16714 5,15.79198 5,23.5 0,29.04103 -1.5,58.43458 -1.5,89 0,4.12891 0.8876,18.3062 3.5,17"
        id="path4483"
@@ -1055,13 +1044,13 @@
          style="letter-spacing:0.10000000000000001px;-inkscape-font-specification:Liberation Sans;font-family:Liberation Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">PLAGA</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3904"
-       style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0.05000000000000000px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Mono;text-anchor:middle;text-align:center;-inkscape-font-specification:Liberation Mono;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.05px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"><flowRegion
          id="flowRegion3906"><rect
            id="rect3908"
            width="696"
            height="122"
            x="32"
            y="780.36218"
-           style="text-anchor:middle;text-align:center;font-size:72px;letter-spacing:0.05000000000000000px;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Liberation Mono;font-family:Liberation Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara3910">M OPEN STUDIO</flowPara></flowRoot>  </g>
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;letter-spacing:0.05px;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono" /></flowRegion><flowPara
+         id="flowPara3910">MOSPCORP</flowPara></flowRoot>  </g>
 </svg>
